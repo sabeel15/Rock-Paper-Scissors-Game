@@ -66,7 +66,6 @@ class="move-icon">
 Computer picked
 <img src="images/${computerMove}-emoji.png"
 class="move-icon">`;
-    
 }
 
 function updateScoreElement(){
